@@ -3,7 +3,12 @@
 
 @import "{{ site.theme }}";
 
-.custom-header { color: #fff; text-align: center; background-color: #7c7c7c; background-image: linear-gradient(120deg, #dcdddf, #000000); }
+.custom-header { 
+    color: #fff; 
+    text-align: center; 
+    background-color: #7c7c7c; 
+    background-image: linear-gradient(120deg, #dcdddf, #000000); 
+}
 @media screen and (min-width: 64em) { .custom-header { padding: 5rem 6rem; } }
 @media screen and (min-width: 42em) and (max-width: 64em) { .custom-header { padding: 3rem 4rem; } }
 @media screen and (max-width: 42em) { .custom-header { padding: 2rem 1rem; } }

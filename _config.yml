@@ -1,6 +1,6 @@
 title: DataMines
 description: AI Algorithms - Geospatial data - Computer Vision.
-show_downloads: false
+show_downloads: true
 is_project_page: true
 google_analytics:
 theme: jekyll-theme-cayman

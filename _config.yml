@@ -10,4 +10,4 @@ plugins:
 exclude: [gems]
 github:
   scholar_url: https://scholar.google.dk/citations?user=o60s11UAAAAJ&hl=da
-  another_url: datamines.dk
+  zip_url: https://www.datamines.dk/cv.pdf  

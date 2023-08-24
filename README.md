@@ -1,3 +1,1 @@
-# The Cayman theme
-
-Web page for David 
+# Web page for David 

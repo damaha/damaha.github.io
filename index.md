@@ -15,7 +15,7 @@ I have helped companies develop and build strategies for implementing advanced A
 **Companies**
 and institutions I have been working for or affiliated with through my career:
 
-COWI - Dictus ApS - DTU - EY - Greenwood Engineering A/S - European Comission - SatCen - Terma A/S - World Bank
+Bytes & Brains ApS - COWI A/S - Dictus ApS - DTU - EY - Greenwood Engineering A/S - European Comission - SatCen - Terma A/S - World Bank
 
 
 **Contact**
